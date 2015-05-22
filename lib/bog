@@ -10,4 +10,4 @@ def rovarize (cleartext:)
   end
   return new_string
 end
-p rovarize(cleartext: "swag")
+p rovarize(cleartext: "SwAg")
